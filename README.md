@@ -1,4 +1,7 @@
 ### Hi there 👋
+# I'm on a quest to make human-centered socially intelligent robots and products a reality  🤖
+💬 In here, you will find my projects focusing on building the social intelligence of a robot and codes that accompany some of my publications. 
+⚡ Visit: www.karentatarian.com for more information
 
 <!--
 **KarenTatarian/karentatarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
